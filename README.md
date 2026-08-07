@@ -105,7 +105,7 @@ Course Outcome 4: Demonstrates my ability to apply programming techniques and de
 
 Revisiting this project showed how much my software engineering skills have grown since taking CS 250. While the original application met the project requirements, this enhancement focuses on professional coding practices, better organization, improved documentation, stronger error handling, and easier maintenance. The final version better represents the skills I have developed throughout the Computer Science program.
 
-### 4b. Algorithms and Data structure
+### 4b. Algorithms and Data Structures
 
 <img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/f6bfcdb7-2f2e-41eb-ac90-9362520c6f51" />
 
