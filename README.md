@@ -48,14 +48,15 @@ To finish, I will summarize the strengths of each project and explain how the pl
 
 <img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/89b56d7e-06e0-42b1-b4ad-1ee5b846eb51" />
 
+### Artifact and Origin
+
 For Category One, I selected my Top Five Destinations application from CS 250: Software Development Lifecycle. This Java Swing application displays my top five travel destinations with images and descriptions. I chose this artifact because it was one of the first software projects I completed, making it a good opportunity to demonstrate how my software engineering skills have improved throughout the Computer Science program.
 
 ### Enhancement Plan
 
 The goal of this enhancement is to improve the application's design, readability, maintainability, and reliability without changing its core functionality.
 
-Enhancements:
-
+Enhancements include:
 Reorganizing the code into smaller, more readable methods.
 Improving formatting, method names, and overall code organization.
 Adding JavaDoc comments and inline documentation.
@@ -64,7 +65,6 @@ Improving the user interface layout.
 Adding error handling for missing images and resources.
 Reducing repeated code to simplify future maintenance.
 Testing each enhancement to ensure existing functionality remains unchanged.
-
 These improvements make the application cleaner, easier to maintain, and more reliable while following software engineering best practices.
 
 ### Planned Enhancement Pseudocode
@@ -109,10 +109,142 @@ Revisiting this project showed how much my software engineering skills have grow
 
 <img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/f6bfcdb7-2f2e-41eb-ac90-9362520c6f51" />
 
+### Artifact and Origin
+
+For Category Two, I selected my **Course Planner** application from **CS 300: Analysis and Design**. This C++ application reads course information from a file, stores it in a map, displays courses in alphabetical order, and allows users to search for individual courses and view their prerequisites. I chose this artifact because it demonstrates my understanding of algorithms, data structures, file processing, and efficient data management. Revisiting this project gave me the opportunity to apply the skills I have developed throughout the Computer Science program to improve both the performance and maintainability of the application.
+
+### Enhancement Plan
+
+The goal of this enhancement is to improve the efficiency, reliability, and organization of the program while maintaining its original functionality.
+
+Enhancements include:
+Improving data validation when loading course information.
+Enhancing prerequisite validation to ensure referenced courses exist.
+Optimizing search and retrieval using the existing map data structure.
+Improving sorting and display of course information.
+Refactoring the code into smaller, more maintainable functions.
+Improving comments and overall documentation.
+Adding stronger input validation and error handling for invalid files and user input.
+Testing each enhancement to verify the original functionality remains intact.
+These improvements make the application more reliable, easier to maintain, and better demonstrate the effective use of algorithms and data structures.
+
+### Planned Enhancement Pseudocode
+
+```
+START Program
+
+Load course file
+
+FOR each course
+    Validate course information
+    Validate prerequisites
+    Store course in map
+END FOR
+
+Sort and display courses
+
+IF user searches for a course
+    Search map
+    IF found
+        Display course information and prerequisites
+    ELSE
+        Display "Course not found"
+    END IF
+END IF
+
+Repeat until user exits
+
+END Program
+```
+
+### a. Skills Demonstrated
+
+This enhancement demonstrates my ability to apply algorithms and data structures to improve an existing application. I strengthened the program by improving data validation, search functionality, code organization, documentation, and error handling while maintaining the original behavior. The project also reinforced the importance of selecting appropriate data structures to improve efficiency, readability, and long-term maintainability.
+
+One of the biggest challenges was improving the program without changing its core functionality. Careful testing throughout the enhancement process ensured that each improvement increased reliability while preserving the original user experience.
+
+### b. Course Outcomes Alignment
+
+Course Outcome 3: Demonstrates my ability to design and evaluate computing solutions by improving an existing application using algorithmic principles, efficient data structures, and thoughtful design decisions.
+
+Course Outcome 4: Demonstrates my ability to apply programming techniques and development tools to build a more efficient, reliable, and maintainable software solution.
+
+### Reflection
+
+Revisiting this project showed how much my understanding of algorithms and data structures has grown since taking CS 300. While the original application successfully met the project requirements, this enhancement focuses on writing cleaner, more efficient, and maintainable code. Improving data validation, search functionality, documentation, and program organization helped create a stronger application that better represents the skills I have developed throughout the Computer Science program.
+
 
 ### 4c. Databases
 
 <img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/dae38a97-6768-4c43-8065-6364e111efc0" />
+
+### Artifact and Origin
+
+For Category Three, I selected my **Event Planning App** from **CS 360: Mobile Architecture and Programming**. This Android application allows users to register, log in, and manage events using a local SQLite database. The app stores user and event information, allowing data to be created, viewed, updated, and deleted throughout the application. I chose this artifact because it best demonstrates my database design and management skills while showing how I can integrate a database into a complete mobile application. Revisiting this project allowed me to apply the knowledge I have gained throughout the Computer Science program to improve the application's functionality, organization, and usability.
+
+### Enhancement Plan
+
+The goal of this enhancement is to improve the application's database structure, data management, and overall user experience while maintaining its original functionality.
+
+Enhancements include:
+Expanding the database by adding event date, description, and priority fields.
+Improving CRUD (Create, Read, Update, Delete) functionality.
+Adding search, filtering, and date-sorting features for stored events.
+Improving database organization and data retrieval.
+Strengthening input validation and error handling.
+Refactoring database code to improve readability and maintainability.
+Testing all database operations to ensure existing functionality remains intact.
+These enhancements make the application more organized, reliable, and practical while demonstrating stronger database design and management skills.
+
+### Planned Enhancement Pseudocode
+
+```
+START Application
+
+Open database connection
+
+IF user creates an event
+    Validate event information
+    Save event to database
+END IF
+
+IF user views events
+    Retrieve events
+    Sort or filter results
+    Display event list
+END IF
+
+IF user searches for an event
+    Search database
+    IF event found
+        Display event details
+    ELSE
+        Display "No results found"
+    END IF
+END IF
+
+Repeat until user exits
+
+END Application
+```
+
+### Skills Demonstrated
+
+This enhancement demonstrates my ability to design, improve, and maintain a database-driven application. I strengthened the application by expanding the database structure, improving CRUD operations, enhancing search and filtering capabilities, and organizing database interactions more effectively. The project also reinforced the importance of integrating a well-designed database with a user-friendly interface while maintaining clean, reliable, and maintainable code.
+
+One of the biggest challenges was updating the database structure without affecting the rest of the application. Careful testing throughout the enhancement process ensured that all database operations continued to function correctly after each improvement.
+
+### Course Outcomes Alignment
+
+Course Outcome 3: Demonstrates my ability to improve a computing solution through better database design, data organization, and application architecture.
+
+Course Outcome 4: Demonstrates my ability to apply mobile development tools and database techniques to create a more reliable, efficient, and maintainable application.
+
+Course Outcome 5: Demonstrates a security mindset by improving data validation, strengthening database interactions, and helping ensure user information is managed safely and reliably.
+
+### Reflection
+
+Revisiting this project showed how much my database and mobile development skills have grown since taking CS 360. While the original application successfully met the project requirements, this enhancement focuses on creating a more organized, reliable, and user-friendly database solution. Expanding the database, improving CRUD functionality, adding search and filtering features, and refining the overall code structure helped create a stronger application that better represents the database and software development skills I have developed throughout the Computer Science program.
 
 
 ## 5. Reflection
