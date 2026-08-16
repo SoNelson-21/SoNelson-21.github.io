@@ -10,7 +10,8 @@
 - 3a. Software Design and Engineering
 - 3b. Algorithms and Data structure
 - 3c. Databases
-4. Reflection
+4. Course Outcomes Alignment
+5. Reflection
 
 ## 1. Professional Self-Assessment
 
@@ -24,6 +25,7 @@ My coursework gave me a strong understanding of data structures and algorithms a
 
 Security was another important topic throughout the program. I learned that security should be considered while designing and developing software instead of only after a program is finished. Through my coursework, I gained experience with areas such as authentication, input validation, secure coding practices, and protecting stored information. I also learned to think about what could happen when a program receives unexpected or invalid input and how proper validation and error handling can reduce those risks. When improving my projects, I tried to consider these issues by validating information before it was processed or stored and by improving error handling. These experiences helped me develop a stronger security mindset and understand that software should not only work correctly but should also protect its data and users.
 
+Other courses throughout the program also helped me develop skills beyond the three artifacts included in this portfolio. For example, in CS 465, I worked with a full-stack application using technologies such as MongoDB, Express, Angular, and Node.js. This gave me experience working with different parts of an application and understanding how the front end, back end, database, and APIs work together. Experiences like this helped prepare me to work with larger applications and strengthened my interest in software development and data science.
 
 Creating this ePortfolio helped bring everything together. Instead of simply collecting past assignments, I revisited previous projects and found ways to improve them using the knowledge I have gained throughout the program. This process helped me recognize areas where I had grown and gave me more confidence in my ability to evaluate, improve, and maintain software.
 
@@ -306,7 +308,32 @@ One challenge I faced was changing the database structure while making sure the 
 
 Overall, the enhanced version is more complete and useful than the original. It gave me more experience with SQLite, database design, CRUD operations, searching, filtering, and sorting. I think the final version does a better job of showing the database and software development skills I have gained throughout the Computer Science program.
 
-## 4. Reflection
+## 4. Course Outcomes Alignment
+
+Throughout my ePortfolio, the three enhanced artifacts and my professional self-assessment work together to demonstrate the five Computer Science program course outcomes.
+
+Course Outcome 1 – Collaborative Environments
+
+My professional self-assessment demonstrates this outcome through my experiences working with classmates, sharing ideas, responding to feedback, and considering stakeholder requirements. These experiences helped me understand how communication and collaboration support better decisions during software development.
+
+Course Outcome 2 – Professional Communication
+
+My ePortfolio demonstrates this outcome through the organization and presentation of my artifacts, narratives, code review, reflections, and technical documentation. I also improved comments, JavaDoc, naming, and code organization within my projects to make the technical information easier for others to understand.
+
+Course Outcome 3 – Algorithms and Computing Solutions
+
+My CS 300 Course Planner enhancement strongly demonstrates this outcome. I used a map to efficiently organize and search course information, vectors to manage prerequisites, and additional validation and searching techniques to make the program more reliable. The enhancement also helped me evaluate how the choice of data structures affects organization, efficiency, and maintainability.
+
+Course Outcome 4 – Computing Techniques, Skills, and Tools
+
+All three enhancements demonstrate this outcome. I used Java and Java Swing to improve the Top Five Destinations application, C++ and appropriate data structures to improve the Course Planner, and Android development with SQLite to improve the Event Planning App. These enhancements demonstrate my ability to use different programming languages, tools, and development techniques to improve existing software.
+
+Course Outcome 5 – Security Mindset
+
+My professional self-assessment and enhancements demonstrate my growing security mindset through input validation, error handling, authentication concepts, and protecting application data. The Course Planner includes validation for invalid or missing information, while the Event Planning App uses validation and more organized database interactions. These improvements helped me consider how unexpected or invalid input can affect an application and how software can be designed to be more reliable and secure.
+
+
+## 5. Reflection
 
 Putting this ePortfolio together gave me the chance to look back at everything I have learned throughout the Computer Science program and see how much I have improved. Going back to my older projects showed me how much my coding style, problem-solving, and overall approach to software development have changed since I first started. It was rewarding to take projects I completed earlier in the program and make them cleaner, more efficient, and easier to maintain.
 
