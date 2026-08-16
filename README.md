@@ -312,8 +312,7 @@ All three enhancements demonstrate this outcome. I used Java and Java Swing to i
 
 Course Outcome 5 – Security Mindset
 
-My professional self-assessment and enhancements demonstrate my growing security mindset through input validation, error handling, authentication concepts, and protecting application data. The Course Planner includes validation for invalid or missing information, while the Event Planning App uses validation and more organized database interactions. These improvements helped me consider how unexpected or invalid input can affect an application and how software can be designed to be more reliable and secure.
-
+My professional self-assessment and enhancements demonstrate my growing security mindset through input validation, error handling, authentication concepts, and protecting application data. The Course Planner includes validation for invalid or missing information, while the Event Planning App uses validation and more organized database interactions. During my enhancements, I also looked for areas where unexpected input could cause errors or create potential vulnerabilities. I added checks to make sure information is validated before being processed or stored. These improvements helped reduce potential bugs, improve reliability, and better prepare the applications for future changes.
 
 ## 5. Reflection
 
