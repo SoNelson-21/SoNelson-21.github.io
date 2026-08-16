@@ -110,12 +110,6 @@ END Application
 
 This enhancement helped me demonstrate stronger software engineering and design skills. Instead of only focusing on whether the program worked, I focused more on organization, readability, type safety, error handling, and maintainability. Breaking the program into smaller methods also made it easier to understand what each part of the application is responsible for.
 
-### Course Outcomes Alignment
-
-* Demonstrates my ability to improve an existing software solution using software engineering principles and better design decisions.
-* Demonstrates my ability to use programming techniques and development tools to create cleaner, more reliable, and maintainable software.
-* Demonstrates stronger technical communication through improved comments, JavaDoc, naming, and code organization.
-
 ### Reflection
 
 Revisiting this project showed me how much my approach to programming has changed since taking CS 250. When I originally created the application, I was mainly focused on getting everything to work. During the enhancement, I paid more attention to how the code was organized and how easy it would be for someone else to understand or update later.
@@ -200,17 +194,11 @@ This enhancement demonstrates my ability to use algorithms and data structures t
 
 The project helped me understand that choosing the right data structure is important not only for performance but also for keeping a program organized and easier to maintain.
 
-### Course Outcomes Alignment
-
-* Demonstrates my ability to design and evaluate computing solutions using algorithms and appropriate data structures.
-* Demonstrates my ability to improve an existing program through better searching, validation, and data organization.
-* Demonstrates my ability to use programming techniques and development tools to create a more reliable and maintainable solution.
-
 ### Reflection
 
 Revisiting this project showed me how much my understanding of algorithms and data structures has improved since taking CS 300. When I originally completed the project, I was mainly focused on meeting the requirements and getting the correct results. During the enhancement, I focused more on how the information was organized, searched, and validated.
 
-One challenge i faced was adding improvements without changing the main functionality of the program. Testing different files, searches, and menu options helped me make sure the program continued to work correctly. Overall, this enhancement helped me better understand how the right data structures and algorithms can make a program more efficient, organized, and reliable.
+One challenge I faced was adding improvements without changing the main functionality of the program. Testing different files, searches, and menu options helped me make sure the program continued to work correctly. Overall, this enhancement helped me better understand how the right data structures and algorithms can make a program more efficient, organized, and reliable.
 
 ### 3c. Databases
 
@@ -293,12 +281,6 @@ END Application
 This enhancement demonstrates my ability to design and improve a database-driven application. I expanded the database structure, improved CRUD operations, and added searching, filtering, and sorting features that make the stored information more useful.
 
 It also helped me better understand how database changes affect other parts of an application. Updating the database meant I also had to make changes to the models, activities, adapters, and layouts so everything continued to work together.
-
-### Course Outcomes Alignment
-
-* Demonstrates my ability to improve a computing solution through stronger database design and data organization.
-* Demonstrates my ability to use mobile development and database tools to create a more reliable and maintainable application.
-* Demonstrates stronger software development practices through input validation and more organized database interactions.
 
 ### Reflection
 
